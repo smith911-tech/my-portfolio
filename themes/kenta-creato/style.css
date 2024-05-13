@@ -1,0 +1,30 @@
+/*!
+Theme Name:   Kenta Creato
+Theme URI:    https://kentatheme.com/child-themes/kenta-creato
+Author:       WP Moose
+Author URI:   https://www.wpmoose.com
+Description:  A Multi-purpose and Customizable Free WordPress Theme. You can also access the Kenta theme's rich Starter Sites (https://kentatheme.com/starter-sites/) to help you create your sites with just one click instead of starting from scratch. It provides endless possibilities to create your site visually in minutes, without coding skills. We also have tons of options for you to customize every part of your site. You can almost build any kind of websites, like blog, business, portfolio, WooCommerce storefronts etc. Whether you're bloggers, editors, online magazines, newspaper, news portals, content publishers, creative business, small businesses, startups and freelancers, we can help you build an amazing website.
+Template:     kenta
+Version:      1.0.1
+Tested up to: 6.4
+Requires PHP: 7.2
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  kenta-creato
+Tags: blog, portfolio, e-commerce, grid-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, block-patterns, block-styles, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-image-header, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, threaded-comments, theme-options, translation-ready, wide-blocks
+*/
+
+/*-------------------------------------------------------------
+## Global fallback vars, for patterns preview
+-------------------------------------------------------------*/
+:root {
+    --kenta-transparent: rgba(0, 0, 0, 0);
+    --kenta-primary-color: var(--kenta-primary-color-admin, #00a4db);
+    --kenta-primary-active: var(--kenta-primary-active-admin, #00d2db);
+    --kenta-accent-color: var(--kenta-accent-color-admin, #ffffff);
+    --kenta-accent-active: var(--kenta-accent-active-admin, #ffffff);
+    --kenta-base-color: var(--kenta-base-color-admin, #000000);
+    --kenta-base-100: var(--kenta-base-100-admin, #141414);
+    --kenta-base-200: var(--kenta-base-200-admin, #383838);
+    --kenta-base-300: var(--kenta-base-300-admin, #383838);
+}

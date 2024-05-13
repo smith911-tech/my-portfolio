@@ -1,0 +1,89 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "settings": {
+    "appearanceTools": true,
+    "layout": {
+      "contentSize": "1140px",
+      "wideSize": "1200px"
+    },
+    "typography": {
+      "dropCap": true,
+      "fluid": true,
+      "fontSizes": [
+        {
+          "fluid": {
+            "min": "10px",
+            "max": "12px"
+          },
+          "name": "Tiny",
+          "size": "12px",
+          "slug": "kenta-font-tiny"
+        },
+        {
+          "fluid": {
+            "min": "12px",
+            "max": "14px"
+          },
+          "name": "XXSmall",
+          "size": "14px",
+          "slug": "kenta-font-xxsmall"
+        },
+        {
+          "fluid": {
+            "min": "14px",
+            "max": "16px"
+          },
+          "name": "XSmall",
+          "size": "16px",
+          "slug": "kenta-font-xsmall"
+        },
+        {
+          "fluid": {
+            "min": "16px",
+            "max": "18px"
+          },
+          "name": "Small",
+          "size": "18px",
+          "slug": "kenta-font-small"
+        },
+        {
+          "fluid": {
+            "min": "18px",
+            "max": "20px"
+          },
+          "name": "Medium",
+          "size": "22px",
+          "slug": "kenta-font-medium"
+        },
+        {
+          "fluid": {
+            "min": "24px",
+            "max": "32px"
+          },
+          "name": "Large",
+          "size": "32px",
+          "slug": "kenta-font-large"
+        },
+        {
+          "fluid": {
+            "min": "32px",
+            "max": "48px"
+          },
+          "name": "XLarge",
+          "size": "48px",
+          "slug": "kenta-font-xlarge"
+        },
+        {
+          "fluid": {
+            "min": "40px",
+            "max": "64px"
+          },
+          "name": "XXLarge",
+          "size": "64px",
+          "slug": "kenta-font-xxlarge"
+        }
+      ]
+    }
+  }
+}

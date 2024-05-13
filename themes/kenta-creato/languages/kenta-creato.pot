@@ -1,0 +1,263 @@
+# Copyright (C) 2024 WP Moose
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenta Creato 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/kenta-creato\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-19T02:58:46+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: kenta-creato\n"
+
+#. Theme Name of the theme
+#: style.css
+#: patterns.php:16
+#: setup.php:15
+msgid "Kenta Creato"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://kentatheme.com/child-themes/kenta-creato"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "A Multi-purpose and Customizable Free WordPress Theme. You can also access the Kenta theme's rich Starter Sites (https://kentatheme.com/starter-sites/) to help you create your sites with just one click instead of starting from scratch. It provides endless possibilities to create your site visually in minutes, without coding skills. We also have tons of options for you to customize every part of your site. You can almost build any kind of websites, like blog, business, portfolio, WooCommerce storefronts etc. Whether you're bloggers, editors, online magazines, newspaper, news portals, content publishers, creative business, small businesses, startups and freelancers, we can help you build an amazing website."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "WP Moose"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.wpmoose.com"
+msgstr ""
+
+#: patterns.php:25
+msgid "Big Hero"
+msgstr ""
+
+#: patterns.php:33
+msgid "Page Hero"
+msgstr ""
+
+#: patterns.php:41
+msgid "Counters"
+msgstr ""
+
+#: patterns.php:49
+msgid "Services"
+msgstr ""
+
+#: patterns.php:57
+msgid "Section with right media"
+msgstr ""
+
+#: patterns.php:65
+msgid "Section with left media"
+msgstr ""
+
+#: patterns.php:73
+msgid "Quote"
+msgstr ""
+
+#: patterns.php:81
+msgid "Featured content"
+msgstr ""
+
+#: patterns.php:89
+msgid "Features"
+msgstr ""
+
+#: patterns.php:97
+msgid "Subscribe"
+msgstr ""
+
+#: setup.php:106
+msgid "Home"
+msgstr ""
+
+#: setup.php:113
+msgid "About"
+msgstr ""
+
+#: setup.php:120
+msgid "Contact"
+msgstr ""
+
+#: template-parts/patterns/counters.php:5
+msgid "10+"
+msgstr ""
+
+#: template-parts/patterns/counters.php:9
+msgid "Years of experience"
+msgstr ""
+
+#: template-parts/patterns/counters.php:17
+msgid "10K+"
+msgstr ""
+
+#: template-parts/patterns/counters.php:21
+msgid "Happy customers"
+msgstr ""
+
+#: template-parts/patterns/counters.php:29
+msgid "280+"
+msgstr ""
+
+#: template-parts/patterns/counters.php:33
+msgid "working hours"
+msgstr ""
+
+#: template-parts/patterns/counters.php:41
+msgid "30+"
+msgstr ""
+
+#: template-parts/patterns/counters.php:45
+msgid "starter sites"
+msgstr ""
+
+#: template-parts/patterns/featured-content.php:3
+msgid "What We Do"
+msgstr ""
+
+#: template-parts/patterns/featured-content.php:7
+msgid "Featured Content"
+msgstr ""
+
+#: template-parts/patterns/featured-content.php:19
+#: template-parts/patterns/featured-content.php:41
+#: template-parts/patterns/featured-content.php:63
+msgid "Amet commodo nulla facilisi nullam vehicula"
+msgstr ""
+
+#: template-parts/patterns/featured-content.php:23
+#: template-parts/patterns/featured-content.php:45
+#: template-parts/patterns/featured-content.php:67
+msgid "Amet commodo nulla facilisi nullam vehicula. Aliquam ultrices sagittis orci a. Est ultricies integer quis auctor elit."
+msgstr ""
+
+#: template-parts/patterns/featured-content.php:27
+#: template-parts/patterns/featured-content.php:49
+#: template-parts/patterns/featured-content.php:71
+msgid "Read More →"
+msgstr ""
+
+#: template-parts/patterns/features.php:7
+#: template-parts/patterns/features.php:18
+#: template-parts/patterns/features.php:28
+#: template-parts/patterns/features.php:38
+#: template-parts/patterns/features.php:50
+#: template-parts/patterns/features.php:60
+#: template-parts/patterns/features.php:70
+msgid "Awesome Feature"
+msgstr ""
+
+#: template-parts/patterns/features.php:11
+#: template-parts/patterns/page-hero.php:6
+#: template-parts/patterns/services.php:9
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: template-parts/patterns/features.php:22
+#: template-parts/patterns/features.php:32
+#: template-parts/patterns/features.php:42
+#: template-parts/patterns/features.php:54
+#: template-parts/patterns/features.php:64
+#: template-parts/patterns/features.php:74
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+msgstr ""
+
+#: template-parts/patterns/hero.php:3
+msgid "Fast. Flexible. Creative"
+msgstr ""
+
+#: template-parts/patterns/hero.php:8
+msgid "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+msgstr ""
+
+#: template-parts/patterns/hero.php:14
+msgid "Get Started"
+msgstr ""
+
+#: template-parts/patterns/quote.php:3
+msgid "“It has saved us thousands of hours of work and has unlocked insights we never thought possible.”"
+msgstr ""
+
+#: template-parts/patterns/quote.php:8
+msgid "Steven"
+msgstr ""
+
+#: template-parts/patterns/quote.php:12
+msgid "CEO, Last Chance"
+msgstr ""
+
+#: template-parts/patterns/section-01.php:5
+msgid "Donec massa sapien faucibus et. Arcu cursus vitae congue mauris."
+msgstr ""
+
+#: template-parts/patterns/section-01.php:10
+msgid "Sit amet luctus venenatis lectus magna."
+msgstr ""
+
+#: template-parts/patterns/section-01.php:14
+msgid "Quis risus sed vulputate odio ut enim."
+msgstr ""
+
+#: template-parts/patterns/section-01.php:18
+msgid "Egestas sed tempus urna et pharetra."
+msgstr ""
+
+#: template-parts/patterns/section-01.php:24
+msgid "Download Now"
+msgstr ""
+
+#: template-parts/patterns/section-01.php:28
+msgid "How it works"
+msgstr ""
+
+#: template-parts/patterns/section-02.php:11
+msgid "Sit amet consectetur adipiscing elit pellentesque."
+msgstr ""
+
+#: template-parts/patterns/section-02.php:15
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+msgstr ""
+
+#: template-parts/patterns/services.php:5
+msgid "Our Services"
+msgstr ""
+
+#: template-parts/patterns/services.php:17
+#: template-parts/patterns/services.php:29
+#: template-parts/patterns/services.php:41
+#: template-parts/patterns/services.php:53
+msgid "Awesome Service"
+msgstr ""
+
+#: template-parts/patterns/services.php:21
+#: template-parts/patterns/services.php:33
+#: template-parts/patterns/services.php:45
+#: template-parts/patterns/services.php:57
+msgid "Explore more →"
+msgstr ""
+
+#: template-parts/patterns/subscribe.php:3
+msgid "Join 1000+ subscribers"
+msgstr ""
+
+#: template-parts/patterns/subscribe.php:7
+msgid "Stay in the loop with everything you need to know."
+msgstr ""
+
+#: template-parts/patterns/subscribe.php:12
+msgid "Sign up"
+msgstr ""
